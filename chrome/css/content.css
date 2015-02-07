@@ -1,0 +1,14 @@
+#J_SAOWOBA-simplemodal-overlay {
+	opacity: 0.5;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	z-index: 3000;
+}
+
+#J_SAOWOBA_DIALOG.hide {
+	display: none;
+}
